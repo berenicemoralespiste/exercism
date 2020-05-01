@@ -1,1 +1,1 @@
-# exercism
+# Exercices of Go
